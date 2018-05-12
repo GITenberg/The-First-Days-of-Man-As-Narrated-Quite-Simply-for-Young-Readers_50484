@@ -1,4 +1,8 @@
 _repo: The-First-Days-of-Man-As-Narrated-Quite-Simply-for-Young-Readers_50484
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50484-h/images/cover.jpg
 creator:
   author:
     agent_name: Kummer, Frederic Arnold
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '33949'
     url: http://www.gutenberg.org/2009/agents/33949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50484#The-First-Days-of-Man-As-Narrated-Quite-Simply-for-Young-Readers
 gutenberg_issued: '2015-11-18'
 gutenberg_type: Text
 identifiers:
